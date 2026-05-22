@@ -29,8 +29,8 @@ pip install git-stats-cli
 ### From source
 
 ```bash
-git clone https://github.com/yourusername/git-stats.git
-cd git-stats
+git clone https://github.com/serimoth/git-stats-cli.git
+cd git-stats-cli
 pip install -e .
 ```
 
@@ -147,8 +147,8 @@ Contributions are welcome! Here's how you can help:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/git-stats.git
-cd git-stats
+git clone https://github.com/serimoth/git-stats-cli.git
+cd git-stats-cli
 pip install -e ".[dev]"
 pytest
 ```
@@ -159,8 +159,7 @@ If you find Git Stats CLI useful, consider supporting its development:
 
 - ⭐ Star this repository
 - 🐦 Share on Twitter
-- 💰 [Sponsor on GitHub](https://github.com/sponsors/yourusername)
-- ☕ [Buy me a coffee](https://buymeacoffee.com/yourusername)
+- ☕ [Support on Ko-fi](https://ko-fi.com/gitstatcli)
 
 Your support helps maintain and improve this tool!
 
@@ -177,9 +176,8 @@ Built with:
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@serimoth](https://github.com/serimoth)
+- Email: seri_moth@yahoo.com
 
 ---
 
