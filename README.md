@@ -159,7 +159,7 @@ If you find Git Stats CLI useful, consider supporting its development:
 
 - ⭐ Star this repository
 - 🐦 Share on Twitter
-- ☕ [Support on Ko-fi](https://ko-fi.com/gitstatcli)
+- ☕ [Support on Ko-fi](https://ko-fi.com/gitstatscli)
 
 Your support helps maintain and improve this tool!
 
