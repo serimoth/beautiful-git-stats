@@ -23,7 +23,7 @@ I built a CLI tool to analyze Git repositories with gorgeous terminal output usi
 
 **Installation:**
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 ```
 
 **Quick example:**
@@ -34,7 +34,7 @@ git-stats hotspots
 git-stats activity
 ```
 
-**GitHub:** https://github.com/YOUR_USERNAME/git-stats-cli
+**GitHub:** https://github.com/YOUR_USERNAME/beautiful-git-stats
 
 Built with GitPython, Rich, and Click. MIT licensed and open source!
 
@@ -62,7 +62,7 @@ Built a CLI tool for analyzing Git repositories with Rich terminal UI.
 
 **Quick demo:**
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 git-stats summary
 ```
 
@@ -75,7 +75,7 @@ Shows you:
 
 All with beautiful, colorful output in your terminal.
 
-**GitHub:** https://github.com/YOUR_USERNAME/git-stats-cli
+**GitHub:** https://github.com/YOUR_USERNAME/beautiful-git-stats
 
 Open source (MIT). Feedback welcome!
 ```
@@ -95,7 +95,7 @@ Created a CLI tool to get insights from Git repositories.
 
 **Install:**
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 ```
 
 **Usage:**
@@ -122,7 +122,7 @@ Perfect for:
 - Team productivity analysis
 - Code review insights
 
-**GitHub:** https://github.com/YOUR_USERNAME/git-stats-cli
+**GitHub:** https://github.com/YOUR_USERNAME/beautiful-git-stats
 
 Free and open source. Would love your thoughts!
 ```
@@ -148,13 +148,13 @@ Key features:
 - Rich, colorful terminal UI
 
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 git-stats summary /path/to/repo
 ```
 
 **Tech stack:** Python, GitPython, Rich, Click
 
-**GitHub:** https://github.com/YOUR_USERNAME/git-stats-cli
+**GitHub:** https://github.com/YOUR_USERNAME/beautiful-git-stats
 
 Open source (MIT). PRs welcome!
 ```
@@ -185,10 +185,10 @@ Wanted a quick way to understand repository health and contributor activity with
 
 **Install:**
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 ```
 
-**GitHub:** https://github.com/YOUR_USERNAME/git-stats-cli
+**GitHub:** https://github.com/YOUR_USERNAME/beautiful-git-stats
 
 MIT licensed. Looking for contributors! Areas where help would be great:
 - Export to JSON/CSV
@@ -203,7 +203,7 @@ MIT licensed. Looking for contributors! Areas where help would be great:
 
 ## Hacker News Submission
 
-**URL:** https://github.com/YOUR_USERNAME/git-stats-cli
+**URL:** https://github.com/YOUR_USERNAME/beautiful-git-stats
 
 **Title:**
 ```
@@ -247,7 +247,7 @@ Beautiful Git repository statistics right in your terminal ✨
 🔥 Hotspot detection
 📅 Activity patterns
 
-pip install git-stats-cli
+pip install beautiful-git-stats
 
 #Python #Git #CLI #DevTools #OpenSource
 
@@ -307,7 +307,7 @@ Key features:
 • Fast & lightweight
 • Flexible filtering by author and date
 
-Install with: pip install git-stats-cli
+Install with: pip install beautiful-git-stats
 
 Open source (MIT) and built with Python, GitPython, Rich, and Click.
 ```

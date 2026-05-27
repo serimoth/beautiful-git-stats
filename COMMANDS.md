@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 ```
 
 ## Basic Commands
@@ -36,8 +36,8 @@ git-stats activity
 
 ### Setup Development Environment
 ```bash
-git clone https://github.com/yourusername/git-stats-cli.git
-cd git-stats-cli
+git clone https://github.com/yourusername/beautiful-git-stats.git
+cd beautiful-git-stats
 pip install -e .
 ```
 
@@ -66,7 +66,7 @@ git init
 git add .
 git commit -m "Initial commit: Git Stats CLI v1.0.0"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/git-stats-cli.git
+git remote add origin https://github.com/YOUR_USERNAME/beautiful-git-stats.git
 git push -u origin main
 ```
 
@@ -87,7 +87,7 @@ git push origin v1.0.1
 
 ### Check PyPI Stats
 ```bash
-# Visit: https://pypistats.org/packages/git-stats-cli
+# Visit: https://pypistats.org/packages/beautiful-git-stats
 ```
 
 ### Check GitHub Stats

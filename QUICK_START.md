@@ -3,7 +3,7 @@
 ## Bước 1: Tạo GitHub Repository (BẠN LÀM)
 
 1. Vào https://github.com/new
-2. Repository name: `git-stats-cli`
+2. Repository name: `beautiful-git-stats`
 3. Description: `Beautiful Git repository statistics in your terminal`
 4. Public
 5. **KHÔNG** tick "Add README" (đã có sẵn)
@@ -18,7 +18,7 @@ git init
 git add .
 git commit -m "Initial commit: Git Stats CLI v1.0.0"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/git-stats-cli.git
+git remote add origin https://github.com/YOUR_USERNAME/beautiful-git-stats.git
 git push -u origin main
 ```
 
@@ -47,7 +47,7 @@ Features:
 - 📅 Activity patterns by day and hour
 - 🎨 Beautiful terminal UI with Rich
 
-Install: `pip install git-stats-cli`
+Install: `pip install beautiful-git-stats`
 ```
 5. Click "Publish release"
 
@@ -92,7 +92,7 @@ git push
 2. Verify email
 3. Enable 2FA (required)
 4. Tạo API token: https://pypi.org/manage/account/token/
-   - Token name: `git-stats-cli`
+   - Token name: `beautiful-git-stats`
    - Scope: "Entire account"
    - Copy token (chỉ hiện 1 lần!)
 
@@ -126,7 +126,7 @@ Features:
 - 📅 Activity patterns by day/hour
 - 🎨 Rich terminal UI
 
-Install: pip install git-stats-cli
+Install: pip install beautiful-git-stats
 
 GitHub: [your link]
 
@@ -163,7 +163,7 @@ Would love your feedback!
 - Hotspot detection
 - Activity patterns
 
-pip install git-stats-cli
+pip install beautiful-git-stats
 
 #Python #Git #CLI #DevTools #OpenSource
 

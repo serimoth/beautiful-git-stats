@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="git-stats-cli",
+    name="beautiful-git-stats",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="seri moth",
+    author_email="seri_moth@yahoo.com",
     description="Beautiful Git repository statistics and insights in your terminal",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/git-stats",
+    url="https://github.com/serimoth/beautiful-git-stats",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

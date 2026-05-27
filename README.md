@@ -1,6 +1,6 @@
 # 🚀 Git Stats CLI
 
-[![PyPI version](https://badge.fury.io/py/git-stats-cli.svg)](https://badge.fury.io/py/git-stats-cli)
+[![PyPI version](https://badge.fury.io/py/beautiful-git-stats.svg)](https://badge.fury.io/py/beautiful-git-stats)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -23,14 +23,14 @@ Get instant insights into your Git repositories with gorgeous, colorful terminal
 ### Via pip (Recommended)
 
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 ```
 
 ### From source
 
 ```bash
-git clone https://github.com/serimoth/git-stats-cli.git
-cd git-stats-cli
+git clone https://github.com/serimoth/beautiful-git-stats.git
+cd beautiful-git-stats
 pip install -e .
 ```
 
@@ -147,8 +147,8 @@ Contributions are welcome! Here's how you can help:
 ### Development Setup
 
 ```bash
-git clone https://github.com/serimoth/git-stats-cli.git
-cd git-stats-cli
+git clone https://github.com/serimoth/beautiful-git-stats.git
+cd beautiful-git-stats
 pip install -e ".[dev]"
 pytest
 ```

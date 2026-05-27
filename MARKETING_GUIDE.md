@@ -91,7 +91,7 @@ Features:
 It's free and open source! Would love your feedback.
 
 GitHub: [link]
-PyPI: pip install git-stats-cli
+PyPI: pip install beautiful-git-stats
 
 [Screenshot/GIF here]
 ```

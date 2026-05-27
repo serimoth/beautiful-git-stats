@@ -17,7 +17,7 @@
 
 ### Bước 2: Tạo GitHub Repository (10 phút)
 - [ ] Vào https://github.com/new
-- [ ] Tên repo: `git-stats-cli`
+- [ ] Tên repo: `beautiful-git-stats`
 - [ ] Description: `Beautiful Git repository statistics in your terminal`
 - [ ] Public
 - [ ] KHÔNG tick "Add README"
@@ -30,7 +30,7 @@ git init
 git add .
 git commit -m "Initial commit: Git Stats CLI v1.0.0"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/git-stats-cli.git
+git remote add origin https://github.com/YOUR_USERNAME/beautiful-git-stats.git
 git push -u origin main
 ```
 
@@ -73,7 +73,7 @@ git push -u origin main
 
 ### Bước 7: Test Installation (5 phút)
 ```bash
-pip install git-stats-cli
+pip install beautiful-git-stats
 git-stats summary
 ```
 - [ ] Verify it works
